@@ -1,2 +1,0 @@
-cookiehello = ["Hi, My name is Cookie Cat and I can give you quotes from Steven Universe! Type /comands to learn more"]
-cookiecomands = ["/cookielist - see quotes added by users; /cookieadd - add new quotes; /cookierem to delete quotes added; /cookieresponding true/false to turn on/off the quotes; /cookieabout to learn more"]
